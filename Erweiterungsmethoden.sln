@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erweiterungsmethoden", "Erweiterungsmethoden\Erweiterungsmethoden.csproj", "{B82CE5DD-FEAD-4C57-B941-CE7FF85DB32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82CE5DD-FEAD-4C57-B941-CE7FF85DB32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82CE5DD-FEAD-4C57-B941-CE7FF85DB32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82CE5DD-FEAD-4C57-B941-CE7FF85DB32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82CE5DD-FEAD-4C57-B941-CE7FF85DB32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
